@@ -105,4 +105,4 @@ npm run dev
 #
 [<< Prev](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-tailwind/blob/main/Tutorial%204_%20Edit%20Data.md)
 |
-[Next >>]()
+[Next >>](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-tailwind/blob/main/Tutorial%206_%20Table%20Filtering.md)
