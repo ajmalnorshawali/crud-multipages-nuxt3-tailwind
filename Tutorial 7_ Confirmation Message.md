@@ -103,6 +103,6 @@ npm run dev
 ```
 
 #
-[<< Prev](https://code.cloud-connect.asia/ajmalnorshawali/crud-multipages-nuxt3-tailwind/-/blob/main/Tutorial%206%3A%20Table%20Filtering.md)
+[<< Prev](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-tailwind/blob/main/Tutorial%206_%20Table%20Filtering.md)
 |
-[Next >>](https://code.cloud-connect.asia/ajmalnorshawali/crud-multipages-nuxt3-tailwind/-/blob/main/Tutorial%208:%20Form%20Validation.md)
+[Next >>](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-tailwind/blob/main/Tutorial%208_%20Form%20Validation.md)
