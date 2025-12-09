@@ -111,4 +111,4 @@ npm run dev
 ```
 
 #
-[<< Prev](https://code.cloud-connect.asia/ajmalnorshawali/crud-multipages-nuxt3-tailwind/-/blob/main/Tutorial%207%3A%20Confirmation%20Message.md)
+[<< Prev](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-tailwind/blob/main/Tutorial%207_%20Confirmation%20Message.md)
